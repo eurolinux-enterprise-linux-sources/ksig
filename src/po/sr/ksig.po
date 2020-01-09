@@ -1,0 +1,146 @@
+# translation of ksig.po to Serbian
+# Copyright (C) 2003, 2005 Free Software Foundation, Inc.
+# Bojan Bozovic <bole89@infosky.net>, 2003.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2005-02-11 19:50+0100\n"
+"Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n%"
+"10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr ""
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "Измени стандардно заглавље"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "Измени стандардно подножје"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr " Линија: %1 "
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr " Кол: %1 "
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "Тражи"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"Да би започели, прво направите нови потпис помоћу опције „Нови“ изнад. Тада "
+"ћете моћи да мењате и снимате вашу колекцију потписа."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "Желите ли да сачувате измене пре изласка?"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "Стандардно заглавље потписа:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "Стандардно подножје потписа:"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr ""
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr ""
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "Прикажи насумични потпис"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "Прикажи потпис дана"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+#, fuzzy
+msgid "Main Toolbar"
+msgstr "Претраживачка трака"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "Претраживачка трака"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr ""
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr ""
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Бојан Божовић"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "bole89@infosky.net"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "Потписи"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<празан потпис>"

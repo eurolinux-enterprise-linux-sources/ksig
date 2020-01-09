@@ -1,0 +1,145 @@
+# translation of ksig.po to Greek
+# Copyright (C) 2003, 2005, 2007 Free Software Foundation, Inc.
+#
+# Stergios Dramis <sdramis@egnatia.ee.auth.gr>, 2003.
+# Spiros Georgaras <sng@hellug.gr>, 2005, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-07-03 13:20+0300\n"
+"Last-Translator: Spiros Georgaras <sng@hellug.gr>\n"
+"Language-Team: Greek <i18ngr@lists.hellug.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "Επεξεργασία τυπικής κεφαλίδας"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "Επεξεργασία τυπικού υποσέλιδου"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr " Γραμμή: %1 "
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr " Στήλη: %1 "
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"Για να ξεκινήσετε, πρώτα δημιουργήστε μια νέα υπογραφή επιλέγοντας \"Νέο\" "
+"παραπάνω. Τότε θα είναι δυνατό να επεξεργαστείτε και να αποθηκεύσετε τη "
+"συλλογή των υπογραφών σας."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "Θέλετε να αποθηκεύσετε τις αλλαγές σας πριν την έξοδο;"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "Τυπική κεφαλίδα υπογραφής:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "Τυπικό υποσέλιδο υπογραφής:"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr "(c) 2002, Scott Wheeler"
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr "Scott Wheeler"
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "Προβολή μιας τυχαίας υπογραφής"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "Προβολή μιας υπογραφής για την ημέρα"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr "&Αρχείο"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr "&Επεξεργασία"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr "Ρ&υθμίσεις"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+msgid "Main Toolbar"
+msgstr "Κύρια γραμμή εργαλείων"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "Γραμμή εργαλείων Αναζήτησης"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr "&Εντάξει"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr "&Ακύρωση"
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Στέργιος Δράμης"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sdramis@egnatia.ee.auth.gr"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "Υπογραφές"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<άδεια υπογραφή>"

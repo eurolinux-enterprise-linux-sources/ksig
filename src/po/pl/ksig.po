@@ -1,0 +1,150 @@
+# translation of ksig.po to
+# translation of ksig.po to Polish
+# Copyright (C) 2004, 2005 Free Software Foundation, Inc.
+# Mikolaj Machowski <mikmach@wp.pl>, 2004.
+# Krzysztof Lichota <lichota@mimuw.edu.pl>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2005-02-20 13:10+0100\n"
+"Last-Translator: Mikolaj Machowski <mikmach@wp.pl>\n"
+"Language-Team: Polish <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr ""
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "Zmień standardowy nagłówek"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "Zmień standardową stopkę"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr " Wiersz: %1 "
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr "Kol: %1 "
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "Znajdź"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"Aby zacząć utwórz nową sygnaturkę wybierając \"Nowa\" powyżej. Potem będzie "
+"możliwa edycja i zachowywanie kolekcji sygnaturek."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "Czy chcesz zapisać zmiany przed zakończeniem?"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "Standardowy nagłówek sygnaturki:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "Standardowa stopka sygnaturki:"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr ""
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr ""
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "Pokaż losową sygnaturkę"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "Pokaż sygnaturkę dnia"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+#, fuzzy
+msgid "Main Toolbar"
+msgstr "Pasek wyszukiwania"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "Pasek wyszukiwania"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr ""
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr ""
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Mikolaj Machowski"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mikmach@wp.pl"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "Sygnaturki"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<pusta sygnaturka>"
+
+#~ msgid "C&lear"
+#~ msgstr "W&yczyść"

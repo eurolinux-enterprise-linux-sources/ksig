@@ -1,0 +1,157 @@
+# translation of ksig.po to
+# Copyright (C) 2004, 2006, 2007 Free Software Foundation, Inc.
+#
+# Ahmad M. Zawawi <azawawi@emirates.net.ae>, 2004.
+# محمد سعد  Mohamed SAAD <metehyi@free.fr>, 2006.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-10-14 15:29+0000\n"
+"Last-Translator: Youssef Chahibi <chahibi@gmail.com>\n"
+"Language-Team:  <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ksig.cpp:71
+#, fuzzy
+msgid "Remove"
+msgstr "احذف"
+
+#: ksig.cpp:84
+#, fuzzy
+msgid "Edit Standard Header"
+msgstr "تحرير قياسي ترويسة"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "حرر التذييل المعياري"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr " السطر: %1 "
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr " العامود: %1 "
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "إبحث"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"للبدء, أولاً قم بإنشاء إمضاء عن طريق إختيار \"جديد\" في الأعلى. يمكنك بعد ذلك "
+"تحرير و حفظ مجموعتك من التواقيع."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "هل تريد حفظ التغييرات قبل الخروج ؟"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "ترويسة التوقيع المعيارية:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "تذييل التوقيع المعياري:"
+
+#: main.cpp:29 main.cpp:34
+#, fuzzy
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+#, fuzzy
+msgid "(c) 2002, Scott Wheeler"
+msgstr "c سكوت ويلر"
+
+#: main.cpp:38
+#, fuzzy
+msgid "Scott Wheeler"
+msgstr "Scott Wheeler"
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "أعرض توقيع عشوائي"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "أعرض توقيع اليوم"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+#, fuzzy
+msgid "&File"
+msgstr "&ملف"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+#, fuzzy
+msgid "&Edit"
+msgstr "&حرّر"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+#, fuzzy
+msgid "&Settings"
+msgstr "إ&عدادات"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+#, fuzzy
+msgid "Main Toolbar"
+msgstr "شريط الأدوات الرئيسي"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "شريط أدوات البحث"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+#, fuzzy
+msgid "&OK"
+msgstr "&موافق"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+#, fuzzy
+msgid "&Cancel"
+msgstr "إل&غاء"
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "محمد جمال,Mohamed SAAD محمد سعد"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "f2c2001@yahoo.com,metehyi@free.fr"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "التواقيع"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<التوقيع فارغ>"

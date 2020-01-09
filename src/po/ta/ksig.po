@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2005-02-02 22:42-0800\n"
+"Last-Translator: Tamil PC <tamilpc@ambalam.com>\n"
+"Language-Team: KDE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr ""
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "நிலையான மேல்குறிப்பை தொகு"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "நிலையான அடிக்குறிப்பை தொகு"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr "வரி: %1"
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr "வண்ணம்: %1"
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "தேடு"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"துவங்குவதற்கு, முதலில் ஒரு புதிய கையொப்பத்தினை \"புதியது\" என மேலே தேர்வு செய்யவும். "
+"பின்பு தாங்கள் தங்களது கையொப்ப பட்டியலை தொகுக்கவோ அல்லது சேமிக்கவோ முடியும்."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "வெளியேறுவதற்கு முன் தங்கள் மாற்றங்களை சேமிக்க விரும்புகிறீர்களா?"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "நிலையான கையொப்ப மேல்குறிப்பு:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "நிலையான கையொப்ப அடிக்குறிப்பு:"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "K சிக்"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr ""
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr ""
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "ஒரு குறிப்பில்லா கையொப்பத்தினைக் காட்டவும்"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "நாளுக்கான ஒரு கையொப்பத்தினைக் காட்டவும்"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+#, fuzzy
+msgid "Main Toolbar"
+msgstr "கருவிப்பட்டியைத் தேடு"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "கருவிப்பட்டியைத் தேடு"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr ""
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr ""
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "வி.ஆபிரகாம்"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "vicnepabr_1306@yahoo.co.in"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "கையொப்பங்கள்"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<வெற்று கையொப்பம்>"
+
+#~ msgid "C&lear"
+#~ msgstr "சுத்தம் செய்"

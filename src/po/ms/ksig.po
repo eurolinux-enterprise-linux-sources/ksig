@@ -1,0 +1,146 @@
+# Malay translation.
+# FIRST AUTHOR MIMOS <opensource@mimos.my>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mimos\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2005-09-23 10:43+0800\n"
+"Last-Translator: MIMOS <opensource@mimos.my>\n"
+"Language-Team: Malay <kedidiemas@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr ""
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "Edit Pengepala Standard"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "Edit Kekaki Standard"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr "Baris: %1"
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr "Lajur: %1"
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "Cari"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"Untuk memulakan, pertama cipta tandatangan baru dengan memilih \"Baru\" di "
+"atas. Kemudian anda akan dapat mengedit dan menyimpan koleksi tandatangan "
+"anda."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "Anda ingin simpan perubahan yang anda buat sebelum anda keluar?"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "Pengepala tandatangan standard:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "Pengaki tandatangan standard:"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr ""
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr ""
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "Paparkan tandatangan rawak"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "Paparkan tandatangan untuk hari ini"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+#, fuzzy
+msgid "Main Toolbar"
+msgstr "Cari Bar Alat"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "Cari Bar Alat"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr ""
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr ""
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "MIMOS"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "opensource@mimos.my"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "Tandatangan"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<tandatangan kosong>"
+
+#~ msgid "C&lear"
+#~ msgstr "&Kosongkan"

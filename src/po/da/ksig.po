@@ -1,0 +1,147 @@
+# Danish translation of ksig
+# Copyright (C)
+# Erik Kjær Pedersen <erik@binghamton.edu>, 2002,2003, 2004, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2005-01-18 08:08-0500\n"
+"Last-Translator: Erik Kjær Pedersen <erik@binghamton.edu>\n"
+"Language-Team: Danish <dansk@klid.dl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr ""
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "Redigér standard-hoved"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "Redigér standard-fod"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr " Linje: %1 "
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr " Søjle: %1 "
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "Søg"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"For at få startet, laves først en ny underskrift ved at vælge \"Ny\" "
+"ovenover. Du vil så kunne redigere og gemme din samling af underskrifter."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "Ønsker du at gemme dine ændringer før du afslutter?"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "Standard underskrift-hoved:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "Standard underskrift-fod:"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr ""
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr ""
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "Vis en tilfældig underskrift"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "Vis dagens underskrift"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+#, fuzzy
+msgid "Main Toolbar"
+msgstr "Søgeværktøjslinje"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "Søgeværktøjslinje"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr ""
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr ""
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Erik Kjær Pedersen"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "erik@binghamton.edu"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "Underskrifter"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<tom underskrift>"
+
+#~ msgid "C&lear"
+#~ msgstr "&Ryd"

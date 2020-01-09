@@ -1,0 +1,150 @@
+# translation of ksig.po to Basque
+# Copyright (C) 2003, 2004, 2005, 2006 Free Software Foundation, Inc.
+#
+# Marcos Goienetxe <marcos@euskalgnu.org>, 2003, 2005.
+# Juan Irigoien <juanirigoien@yahoo.es>, 2004.
+# marcos <marcos@euskalgnu.org>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2006-01-25 11:41+0100\n"
+"Last-Translator: marcos <marcos@euskalgnu.org>\n"
+"Language-Team: Basque <itzulpena@euskalgnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr ""
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "Editatu goiburu estandarra"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "Editatu oin estandarra"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr " Lerroa: %1 "
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr " Zut: %1 "
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "Bilatu"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"Abiarazi ahal izateko, sor ezazu lehendabizi zinadura berria goian dagoen "
+"\"Berria\" hautatuz, eta zure zinadura bilduma editatu eta gorde ahal izanen "
+"duzu."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "Gorde nahi al dituzu aldaketak irten aurretik?"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "Zinadura goiburu estandarra:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "Zinadura oin estandarra"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr ""
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr ""
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "Erakutsi ausazko zinadura "
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "Erakutsi eguneko zinadura"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr ""
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+#, fuzzy
+msgid "Main Toolbar"
+msgstr "Bilaketa tresnabarra"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "Bilaketa tresnabarra"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr ""
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr ""
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Juan Irigoien"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "juanirigoien@gmail.com"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "Zinadurak"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<sinadurarik ez>"
+
+#~ msgid "C&lear"
+#~ msgstr "G&arbitu"

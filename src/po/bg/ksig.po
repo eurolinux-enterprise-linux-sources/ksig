@@ -1,0 +1,146 @@
+# translation of ksig.po to български
+# Bulgarian translation of KDE.
+# This file is licensed under the GPL.
+#
+# $Id: ksig.po 723949 2007-10-11 06:37:45Z scripty $
+#
+# Aleksandar Yordanov <punkin.drublik@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-07-13 13:47+0300\n"
+"Last-Translator: Aleksandar Yordanov <punkin.drublik@gmail.com>\n"
+"Language-Team: български <mailto:dict@fsa-bg.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr "Изтриване"
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "Редактиране на горния колонтитул"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "Редактиране на долния колонтитул"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr " Ред: %1 "
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr " Колона: %1 "
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "Търсене"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"За да използвате приставката, първо трябва да създадете нова сигнатура. След "
+"това ще може да редактирате и записвате колекцията от сигнатури."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "Искате ли промените да бъдат записани?"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "Горен колонтитул по подразбиране:"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "Долен колонтитул по подразбиране:"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr "(c) 2002, Scott Wheeler"
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr "Scott Wheeler"
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "Показване на случайна сигнатура"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "Показване на сигнатура за деня"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr "&Файл"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr "&Редактиране"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr "&Настройки"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+msgid "Main Toolbar"
+msgstr "Лента с инструменти"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "Лента за търсене"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr "&ОК"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr "От&каз"
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Радостин Раднев, Александър Йорданов"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "radnev@yahoo.com, punkin.drublik@gmail.com"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "Сигнатури"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<празна сигнатура>"

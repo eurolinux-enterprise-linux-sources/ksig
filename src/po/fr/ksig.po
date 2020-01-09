@@ -1,0 +1,151 @@
+# traduction de ksig.po en Français
+# translation of ksig.po to Français
+# translation of ksig.po to
+# translation of ksig.po to
+# translation of ksig.po to
+# translation of ksig.po to
+# Copyright (C) 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+#
+# Matthieu Robin <kde@macolu.org>, 2003, 2004.
+# Matthieu Robin <kde@macolu.org>, 2005.
+# Paul Morin <m.paulmorin@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2008-01-17 20:54+0100\n"
+"Last-Translator: Paul Morin <m.paulmorin@gmail.com>\n"
+"Language-Team: Français <kde-francophone@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ksig.cpp:71
+msgid "Remove"
+msgstr "Supprimer"
+
+#: ksig.cpp:84
+msgid "Edit Standard Header"
+msgstr "Éditer l'en-tête standard"
+
+#: ksig.cpp:88
+msgid "Edit Standard Footer"
+msgstr "Éditer le pied-de-page standard"
+
+#: ksig.cpp:107 ksig.cpp:279
+#, kde-format
+msgid " Line: %1 "
+msgstr " Ligne : %1 "
+
+#: ksig.cpp:108 ksig.cpp:280
+#, kde-format
+msgid " Col: %1 "
+msgstr " Col. : %1 "
+
+#: ksig.cpp:121
+msgid "Search"
+msgstr "Recherche"
+
+#: ksig.cpp:139
+msgid ""
+"To get started, first create a new signature by selecting \"New\" above. You "
+"will then be able to edit and save your collection of signatures."
+msgstr ""
+"Pour commencer, créez une nouvelle signature en sélectionnant « Nouveau » ci-"
+"dessus. Vous pourrez alors éditer et enregistrer votre collection de "
+"signatures."
+
+#: ksig.cpp:189
+msgid "Do you want to save your changes before exiting?"
+msgstr "Voulez-vous enregistrer vos changements avant de quitter ?"
+
+#: ksig.cpp:237
+msgid "Standard signature header:"
+msgstr "En-tête standard des signatures :"
+
+#: ksig.cpp:248
+msgid "Standard signature footer:"
+msgstr "Pied-de-page standard des signatures :"
+
+#: main.cpp:29 main.cpp:34
+msgid "KSig"
+msgstr "KSig"
+
+#: main.cpp:36
+msgid "(c) 2002, Scott Wheeler"
+msgstr "(c) 2002, Scott Wheeler"
+
+#: main.cpp:38
+msgid "Scott Wheeler"
+msgstr "Scott Wheeler"
+
+#: main.cpp:42
+msgid "Display a random signature"
+msgstr "Afficher une signature aléatoire"
+
+#: main.cpp:43
+msgid "Display a signature for the day"
+msgstr "Afficher une signature pour la journée"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 5
+#: rc.cpp:3
+msgid "&File"
+msgstr "&Fichier"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 8
+#: rc.cpp:6
+msgid "&Edit"
+msgstr "Édit&er"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 11
+#: rc.cpp:9
+msgid "&Settings"
+msgstr "Paramètre&s"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 17
+#: rc.cpp:12
+msgid "Main Toolbar"
+msgstr "Barre principale"
+
+#. i18n: tag text
+#. i18n: file ksigui.rc line 22
+#: rc.cpp:15
+msgid "Search Toolbar"
+msgstr "Barre de recherche"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 56
+#: rc.cpp:18
+msgid "&OK"
+msgstr "&Valider"
+
+#. i18n: tag string
+#. i18n: file standardtextbase.ui line 72
+#: rc.cpp:21
+msgid "&Cancel"
+msgstr "&Annuler"
+
+#: rc.cpp:22
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Matthieu Robin, Paul Morin"
+
+#: rc.cpp:23
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde@macolu.org, m.paulmorin@gmail.com"
+
+#: siglistview.cpp:115
+msgid "Signatures"
+msgstr "Signatures"
+
+#: siglistviewitem.cpp:79
+msgid "<empty signature>"
+msgstr "<signature vide>"
